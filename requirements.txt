@@ -1,0 +1,10 @@
+contextlib2==0.6.0.post1
+importlib-resources==3.3.0
+netaddr==0.8.0
+netifaces==0.10.9
+pathlib2==2.3.5
+scandir==1.10.0
+singledispatch==3.4.0.3
+six==1.15.0
+typing==3.7.4.3
+zipp==1.2.0
